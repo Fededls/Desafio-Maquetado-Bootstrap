@@ -1,0 +1,50 @@
+/*Comentarios CSS*/
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.tipoContenedor{
+    border: solid 3px blue;
+    background-image: radial-gradient(khaki, gold);
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 1200px;
+}
+.tipoContenedor2{
+    border: solid 3px blue;
+    background-image: radial-gradient(hotpink, lightgreen);
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 1200px;
+}
+.centrarMargen{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.centrarMargen2{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.pocoMargen{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.itemsRow{
+    border: solid 3px rgb(76, 76, 155);
+    background-color:silver;
+}
+.bordeInferior{
+    border: solid 2px gray;
+}
+.formMargen{
+    margin: 5% 5%;
+}
+.imgMargen{
+    margin: 15% 15%;
+}
+.imgMargen2{
+    margin-top: 8%;
+}
